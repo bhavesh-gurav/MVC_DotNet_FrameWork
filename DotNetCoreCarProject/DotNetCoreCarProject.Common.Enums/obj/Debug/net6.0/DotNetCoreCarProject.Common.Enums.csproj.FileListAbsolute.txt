@@ -1,0 +1,12 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\bin\Debug\net6.0\DotNetCoreCarProject.Common.Enums.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\bin\Debug\net6.0\DotNetCoreCarProject.Common.Enums.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\bin\Debug\net6.0\DotNetCoreCarProject.Common.Enums.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\DotNetCoreCarProject.Common.Enums.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\DotNetCoreCarProject.Common.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\DotNetCoreCarProject.Common.Enums.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\DotNetCoreCarProject.Common.Enums.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\DotNetCoreCarProject.Common.Enums.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\DotNetCoreCarProject.Common.Enums.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\refint\DotNetCoreCarProject.Common.Enums.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\DotNetCoreCarProject.Common.Enums.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Enums\obj\Debug\net6.0\ref\DotNetCoreCarProject.Common.Enums.dll

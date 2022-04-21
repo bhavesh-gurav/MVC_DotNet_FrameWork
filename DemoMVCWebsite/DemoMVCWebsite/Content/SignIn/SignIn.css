@@ -1,0 +1,13 @@
+﻿#SIGNINForm {
+    box-shadow: 0px 0px 5px gray;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+i.fa, span {
+    color: teal;
+}
+
+span {
+    font-weight: bold;
+}

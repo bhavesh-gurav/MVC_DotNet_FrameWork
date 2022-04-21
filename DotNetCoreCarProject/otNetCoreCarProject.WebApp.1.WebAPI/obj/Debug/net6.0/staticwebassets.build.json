@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EPGhHOlBYHB+FwEosnLr1BOHGPNDbwcfV0rlEhc7PhY=",
+  "Source": "DotNetCoreCarProject.WebApp.1.WebAPI",
+  "BasePath": "_content/DotNetCoreCarProject.WebApp.1.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

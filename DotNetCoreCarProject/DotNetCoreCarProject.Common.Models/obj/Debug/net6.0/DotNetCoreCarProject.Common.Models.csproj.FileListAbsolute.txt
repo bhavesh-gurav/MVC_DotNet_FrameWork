@@ -1,0 +1,15 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\bin\Debug\net6.0\DotNetCoreCarProject.Common.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\bin\Debug\net6.0\DotNetCoreCarProject.Common.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\bin\Debug\net6.0\DotNetCoreCarProject.Common.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\bin\Debug\net6.0\DotNetCoreCarProject.Common.Enums.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\bin\Debug\net6.0\DotNetCoreCarProject.Common.Enums.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\DotNetCoreCarProject.Common.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\DotNetCoreCarProject.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\DotNetCoreCarProject.Common.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\DotNetCoreCarProject.Common.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\DotNetCoreCarProject.Common.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\DotNetCoreCarProject.Common.Models.csproj.CopyComplete
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\DotNetCoreCarProject.Common.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\refint\DotNetCoreCarProject.Common.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\DotNetCoreCarProject.Common.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.Common.Models\obj\Debug\net6.0\ref\DotNetCoreCarProject.Common.Models.dll

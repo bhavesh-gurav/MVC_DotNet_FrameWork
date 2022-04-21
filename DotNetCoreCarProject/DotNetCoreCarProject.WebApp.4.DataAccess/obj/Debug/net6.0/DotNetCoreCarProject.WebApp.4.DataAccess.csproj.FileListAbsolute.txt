@@ -1,0 +1,17 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\bin\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\bin\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\bin\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\refint\DotNetCoreCarProject.WebApp.4.DataAccess.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\ref\DotNetCoreCarProject.WebApp.4.DataAccess.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\bin\Debug\net6.0\DotNetCoreCarProject.Common.Enums.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\bin\Debug\net6.0\DotNetCoreCarProject.Common.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\bin\Debug\net6.0\DotNetCoreCarProject.Common.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\bin\Debug\net6.0\DotNetCoreCarProject.Common.Enums.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\SampleProject\DotNetCoreCarProject\DotNetCoreCarProject.WebApp.4.DataAccess\obj\Debug\net6.0\DotNetCoreCarProject.WebApp.4.DataAccess.csproj.CopyComplete
